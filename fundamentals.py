@@ -24,7 +24,7 @@ later, i display the result by using print function'''
 #Variables
 #Syntax
 #variable = Value
-
+#some changes done for git
 roll_number=123
 print(roll_number)
 
